@@ -7,12 +7,14 @@
 
 A little about me:  
 - 🎓 I’m currently studying **Computer Science** as a third-year student.  
-- 🔭 Working on [**Petify**](https://develop.finki.ukim.mk/projects/petify).  
+- 🔭 Working on [**NLP medical analysis**](https://github.com/veronika-ilioska/NLP_medical_results_explanation).  
 - 💻 Love building **creative websites**, experimenting with **AI/ML**, and solving coding challenges.  
 - 📚 Always learning & exploring new technologies.  
 - 🎀 Fun fact: I enjoy combining **tech with creativity** to make things prettier *and* smarter.  
 
 📫 You can reach me at **ilioskaveronika@gmail.com**   
+<br/>
+[![committers.top badge](https://user-badge.committers.top/macedonia/veronika-ilioska.svg)](https://user-badge.committers.top/macedonia/veronika-ilioska)
 
 ---
 
